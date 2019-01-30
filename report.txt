@@ -1,0 +1,18 @@
+Info: Checking netlist symbol footprint "J1:/5C4B76F5:Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal".
+Info: Checking netlist symbol footprint "J2:/5C4B88F1:RN112:RN112BPC".
+Adding new symbol J1 footprint Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal.
+Changing footprint J1 pad 1 net from  to Net-(J1-Pad1).
+Changing footprint J1 pad 2 net from  to Net-(J1-Pad2).
+Changing footprint J1 pad 3 net from  to Net-(J1-Pad3).
+Changing footprint J1 pad 4 net from  to Net-(J1-Pad4).
+Changing footprint J1 pad 5 net from  to Net-(J1-Pad5).
+Changing footprint J1 pad 6 net from  to Net-(J1-Pad6).
+Changing footprint J1 pad 7 net from  to Net-(J1-Pad7).
+Changing footprint J1 pad 8 net from  to Net-(J1-Pad8).
+Adding new symbol J2 footprint RN112:RN112BPC.
+Error: Symbol J2 pad S not found in footprint RN112:RN112BPC.
+
+Error: Symbol J2 pad T not found in footprint RN112:RN112BPC.
+
+Error: Symbol J2 pad R not found in footprint RN112:RN112BPC.
+
